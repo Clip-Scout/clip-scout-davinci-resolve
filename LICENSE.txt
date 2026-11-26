@@ -1,0 +1,92 @@
+CLIP SCOUT - END USER LICENCE AGREEMENT
+Version 1.0 · 26 November 2026
+
+Clip Scout is made by Oskars Andersons (Oskvid.com, Latvia), "the Author".
+By installing or using Clip Scout you agree to this agreement. If you don't
+agree, don't install it, and ask the shop you bought it from for a refund
+under its refund policy.
+
+1. WHAT YOU GET
+   You buy a licence to use Clip Scout, not the software itself. The Author
+   keeps all rights, title and copyright in Clip Scout, including its code,
+   interface, gnome artwork, name and logo.
+
+2. WHAT YOU MAY DO
+   a. Install and use Clip Scout on up to two (2) computers that you own or
+      control, for personal or commercial work (for example paid client
+      projects).
+   b. Use everything you make with Clip Scout (timelines, markers, reels,
+      titles, renders, LUT results) any way you like. Your footage and your
+      results belong to you.
+   c. Receive updates for this version line at no extra cost, as and when the
+      Author releases them.
+
+3. WHAT YOU MAY NOT DO
+   a. Share, resell, rent, lend or give away Clip Scout or your licence, or
+      put it on a network where people without their own licence can use it.
+   b. Copy, change, decompile or take apart Clip Scout's own code, except
+      where the law of your country allows it regardless of this agreement.
+   c. Remove or change copyright notices, this agreement or the third-party
+      notices.
+   d. Use Clip Scout's name, logo or gnome artwork for your own products.
+
+4. YOUR FOOTAGE AND PRIVACY
+   Clip Scout works on your own computer. Your footage, transcripts and the
+   search index stay on your drives; nothing is uploaded. Clip Scout only
+   sends something over the internet when you choose to: the one-time
+   download of its AI models during installation, a feedback message you
+   write, or your email address when you sign up for news. Those are sent
+   only when you press the button to send them.
+
+5. THIRD-PARTY SOFTWARE
+   Clip Scout includes open-source software and AI models made by others.
+   They are not covered by this agreement but by their own licences, listed
+   in THIRD_PARTY_NOTICES.txt. Nothing in this agreement limits your rights
+   under those licences. In particular, the included FFmpeg program is free
+   software under the GNU General Public License; its source code is
+   available as described in that file.
+
+6. DAVINCI RESOLVE AND OTHER TRADEMARKS
+   Clip Scout works with DaVinci Resolve Studio, which you must licence
+   separately from Blackmagic Design. Clip Scout is an independent product
+   and is not made, endorsed or supported by Blackmagic Design or by any
+   camera maker. DaVinci Resolve and Blackmagic Design are trademarks of
+   Blackmagic Design Pty Ltd. Apple Log and iPhone are trademarks of Apple
+   Inc. Sony, Canon, Panasonic, Nikon and DJI and their log formats are
+   trademarks of their owners. They are named only to say what Clip Scout
+   works with.
+
+7. BACK UP YOUR WORK
+   Clip Scout adds markers, timelines, LUTs and titles to your Resolve
+   projects. It never deletes your footage, and its own changes can be
+   undone from its Undo button, but software can fail. Keep backups of your
+   projects and footage, as you would with any editing tool.
+
+8. NO WARRANTY
+   Clip Scout is provided "as is". To the extent the law allows, the Author
+   gives no warranty that it is free of errors, that it will work with every
+   camera, file or version of DaVinci Resolve, or that search, transcription,
+   shake detection or colour conversion results are always correct. AI
+   results are suggestions: check them before you deliver to a client.
+
+9. LIMITATION OF LIABILITY
+   To the extent the law allows, the Author is not liable for any indirect or
+   consequential loss, such as lost data, lost projects, lost income or
+   missed deadlines, arising from the use of Clip Scout. The Author's total
+   liability is limited to the price you paid for your licence. Nothing in
+   this agreement limits rights you have as a consumer that cannot be
+   limited by contract.
+
+10. ENDING THE LICENCE
+   Your licence ends automatically if you break this agreement. When it
+   ends, you must stop using Clip Scout and delete it.
+
+11. LAW
+   This agreement is governed by the laws of the Republic of Latvia and the
+   European Union. If you are a consumer, you also keep the protection of the
+   mandatory laws of the country where you live.
+
+12. CONTACT
+   Oskars Andersons · Oskvid.com
+   Questions, support and licence matters: through the contact details on
+   Oskvid.com, or the Feedback button inside Clip Scout.

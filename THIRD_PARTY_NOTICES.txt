@@ -1,0 +1,97 @@
+CLIP SCOUT - THIRD-PARTY NOTICES
+Version 1.0 · 26 November 2026
+
+Clip Scout (c) Oskars Andersons. Clip Scout uses the open-source software and
+AI models listed below. Each is the property of its authors and is used under
+its own licence, which is not changed by Clip Scout's licence agreement. The
+full licence texts come with each component in the installed program (in the
+Python packages' "dist-info" / "LICENSE" files) and at the addresses below.
+
+
+1. FFMPEG  (GNU General Public License, version 2 or later)
+------------------------------------------------------------------------------
+Clip Scout includes an FFmpeg program (version 9.0) through the imageio-ffmpeg
+package. This FFmpeg build is configured with --enable-gpl and includes
+libx264 and libx265, so the FFmpeg program is licensed under the GNU General
+Public License (GPL). Clip Scout runs FFmpeg as a separate program; Clip
+Scout's own code is not part of FFmpeg.
+
+  FFmpeg is free software: you can redistribute it and/or modify it under the
+  terms of the GNU General Public License as published by the Free Software
+  Foundation; either version 2 of the License, or (at your option) any later
+  version. FFmpeg is distributed WITHOUT ANY WARRANTY; see the GNU General
+  Public License for more details.
+
+  GNU GPL text:        https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+  FFmpeg source code:  https://ffmpeg.org/download.html  (release 9.0)
+  This build:          https://github.com/imageio/imageio-binaries
+  x264:                https://www.videolan.org/developers/x264.html  (GPL-2.0+)
+  x265:                https://www.x265.org  (GPL-2.0+)
+
+Written offer: for at least three years from the date you received Clip
+Scout, the Author will provide the complete corresponding source code of the
+included FFmpeg build (and of x264 and x265) on request, for no more than the
+cost of providing it. Ask through the contact details on Oskvid.com.
+
+"FFmpeg" is a trademark of Fabrice Bellard, originator of the FFmpeg project.
+
+
+2. AI MODELS
+------------------------------------------------------------------------------
+SigLIP 2 (ViT-B-16-SigLIP2-256), scene detection
+  Google LLC · Apache License 2.0 · https://huggingface.co/timm/ViT-B-16-SigLIP2-256
+Whisper models via faster-whisper, speech transcription
+  OpenAI (weights) · MIT License · https://github.com/openai/whisper
+  converted for CTranslate2 by SYSTRAN · MIT License
+M2M-100 418M (facebook/m2m100_418M), offline translation
+  Meta Platforms, Inc. · MIT License · https://huggingface.co/facebook/m2m100_418M
+
+The models are downloaded once during installation from Hugging Face and run
+only on your computer.
+
+
+3. SOFTWARE LIBRARIES
+------------------------------------------------------------------------------
+Python                     Python Software Foundation License   https://www.python.org
+PyTorch (torch)            BSD-3-Clause                         https://pytorch.org
+OpenCLIP (open_clip_torch) MIT                                  https://github.com/mlfoundations/open_clip
+timm                       Apache-2.0                           https://github.com/huggingface/pytorch-image-models
+Transformers               Apache-2.0                           https://github.com/huggingface/transformers
+Tokenizers                 Apache-2.0                           https://github.com/huggingface/tokenizers
+huggingface_hub            Apache-2.0                           https://github.com/huggingface/huggingface_hub
+SentencePiece              Apache-2.0                           https://github.com/google/sentencepiece
+faster-whisper             MIT                                  https://github.com/SYSTRAN/faster-whisper
+CTranslate2                MIT                                  https://github.com/OpenNMT/CTranslate2
+Lingua (language detector) Apache-2.0                           https://github.com/pemistahl/lingua-py
+NumPy                      BSD-3-Clause                         https://numpy.org
+OpenCV (headless)          Apache-2.0                           https://opencv.org
+Pillow                     MIT-CMU (HPND)                       https://python-pillow.org
+imageio-ffmpeg             BSD-2-Clause                         https://github.com/imageio/imageio-ffmpeg
+FastAPI                    MIT                                  https://fastapi.tiangolo.com
+Starlette                  BSD-3-Clause                         https://www.starlette.io
+Uvicorn                    BSD-3-Clause                         https://www.uvicorn.org
+Pydantic                   MIT                                  https://docs.pydantic.dev
+cryptography               Apache-2.0 OR BSD-3-Clause           https://cryptography.io
+cffi                       MIT                                  https://cffi.readthedocs.io
+pycparser                  BSD-3-Clause                         https://github.com/eliben/pycparser
+
+Their dependencies, installed alongside them, keep their own licences; each
+installed package carries its licence file.
+
+
+4. COLOUR SCIENCE
+------------------------------------------------------------------------------
+Clip Scout's built-in Apple Log to Rec.709 conversion is Clip Scout's own LUT,
+calculated from the Apple Log curve that Apple publishes for developers. No
+Apple files are included. Camera makers' own LUTs (Sony, Canon, Blackmagic,
+Panasonic, Nikon, DJI, Apple) are not included with Clip Scout: Clip Scout
+uses the ones already installed with DaVinci Resolve or downloaded by you.
+
+
+5. TRADEMARKS
+------------------------------------------------------------------------------
+DaVinci Resolve and Blackmagic Design are trademarks of Blackmagic Design Pty
+Ltd. Apple, Apple Log and iPhone are trademarks of Apple Inc. Sony, S-Log,
+Canon, Canon Log, Panasonic, V-Log, Nikon, N-Log, DJI and D-Log are
+trademarks of their respective owners. Clip Scout is independent and is not
+affiliated with, endorsed by or sponsored by any of them.
