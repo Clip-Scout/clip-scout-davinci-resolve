@@ -2,7 +2,7 @@
   <img src="docs/images/logo.png" width="112" alt="Clip Scout logo">
 </p>
 
-<h1 align="center">Clip Scout</h1>
+<h1 align="center">Clip Scout for DaVinci Resolve</h1>
 
 <p align="center">
   <b>Find any moment. Cut the boring parts.</b><br>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Clip-Scout/clip-scout-downloads/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Clip-Scout/clip-scout-downloads?label=latest&color=f59e0b"></a>
+  <a href="https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Clip-Scout/clip-scout-davinci-resolve?label=latest&color=f59e0b"></a>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-Apple%20silicon-111?logo=apple">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-111?logo=windows">
   <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-18%2B-111">
@@ -18,9 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Clip-Scout/clip-scout-downloads/releases/latest"><b>Download the 7-day free trial</b></a> ·
+  <a href="https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/latest"><b>Download the 7-day free trial</b></a> ·
   <a href="https://payhip.com/b/EpcLO"><b>Buy Clip Scout</b></a> ·
-  <a href="https://clip-scout-pied.vercel.app">Website</a>
+  <a href="https://clip-scout-pied.vercel.app">Website</a> ·
+  <a href="https://www.paypal.com/donate/?business=oskarsfiverr%40gmail.com&item_name=Gift+a+coffee+for+Clip+Scout&currency_code=EUR&no_recurring=0">☕ Buy me a coffee</a>
 </p>
 
 <p align="center"><img src="docs/images/01-cover.jpg" alt="Clip Scout" width="900"></p>
@@ -33,7 +34,7 @@ Clip Scout watches and listens to every clip once, so you never scrub through ho
 
 | | macOS | Windows |
 |---|---|---|
-| **Installer** | [`ClipScout-1.1.0-Mac.pkg`](https://github.com/Clip-Scout/clip-scout-downloads/releases/latest) | [`ClipScout-1.1.0-Windows.exe`](https://github.com/Clip-Scout/clip-scout-downloads/releases/latest) |
+| **Installer** | [`ClipScout-1.1.0-Mac.pkg`](https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/latest) | [`ClipScout-1.1.0-Windows.exe`](https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/latest) |
 | **Needs** | Apple silicon (M1 or newer), macOS 12+ | Windows 10/11, 64-bit |
 
 Every download starts as a **7-day free trial**: no card, no account. To unlock the full version, [buy a licence on Payhip](https://payhip.com/b/EpcLO), click **Trial** at the top of Clip Scout and paste your key. Your scanned projects are kept; there is nothing to reinstall.
@@ -100,7 +101,7 @@ Sending results into Resolve (markers, timelines, LUTs) uses Resolve's external 
 
 Clip Scout checks for new versions and shows **"Clip Scout x.y is ready"** with the list of changes. **Update now** downloads the new installer, checks it isn't damaged, and opens it. Your licence, settings and scanned projects stay.
 
-All versions: [Releases](https://github.com/Clip-Scout/clip-scout-downloads/releases) · [Changelog](CHANGELOG.md)
+All versions: [Releases](https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases) · [Changelog](CHANGELOG.md)
 
 ## Questions
 
@@ -123,6 +124,10 @@ Not at the moment: macOS on Apple silicon and Windows 10/11 (64-bit).
 <details><summary><b>Where do I get help?</b></summary>
 Use <b>Feedback</b> inside Clip Scout, or the contact details on <a href="https://oskvid.com">oskvid.com</a>.
 </details>
+
+## Support the project
+
+Clip Scout is made by one editor. If it saves you time, you can [**☕ buy me a coffee**](https://www.paypal.com/donate/?business=oskarsfiverr%40gmail.com&item_name=Gift+a+coffee+for+Clip+Scout&currency_code=EUR&no_recurring=0). Thank you!
 
 ## Licence
 
