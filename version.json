@@ -1,24 +1,22 @@
 {
-  "version": "1.1.0",
-  "released": "2026-11-26",
+  "version": "1.2.0",
+  "released": "2026-11-27",
   "notes": [
-    "New Smart Cut tab: remove pauses and filler words (umm, uh) from your timeline in one click",
-    "New: sync camera clips to your audio recorder (Zoom, Tascam, DJI Mic, lavalier) by their sound",
-    "New: Retake finder groups takes of the same shot and suggests the best one",
-    "Fixed: indexing could stop right after pressing Start",
-    "Live indexing progress: percent, which clip, and a clear message if something goes wrong",
-    "Faster first start after installing; no console windows flashing on Windows",
-    "Pick your own LUTs with your computer's own file browser",
-    "Show all clips now loads every clip as you scroll",
-    "The Editor gnome joins the Time saved family"
+    "New: Your PowerGrades — a clean 8-node grade on every clip, with a CST for your camera (S-Log3, S-Log2, D-Log, Canon Log, Apple Log)",
+    "New: top 5 favourite LUTs and PowerGrades with previews, one click each",
+    "New: AI Smart Bins — people, couple, crowds and scenes sorted into Resolve bins",
+    "New: switch timelines from the Resolve status box",
+    "New: Time saved per project, and Clean up to free disk space",
+    "New: full How to Use guide, including how to exclude clips",
+    "Updates: clearer update banner and a Restart button after installing"
   ],
   "page": "https://payhip.com/b/EpcLO",
   "mac": {
-    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.1.0/ClipScout-1.1.0-Mac.pkg",
-    "sha256": "969a912ef461bcbc19aba4611add7b7a4b8651a5c1eb199a90013c48453192f8"
+    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.2.0/ClipScout-1.2.0-Mac.pkg",
+    "sha256": "d23393811c84a4033f71fc2847cef6856adf06e1974c9c3a8d53349d324d2006"
   },
   "windows": {
-    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.1.0/ClipScout-1.1.0-Windows.exe",
-    "sha256": "7c38f677abe1c0ab792fec5cad0346428c89b008c6dca29518bfc23fdb5033aa"
+    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.2.0/ClipScout-1.2.0-Windows.exe",
+    "sha256": "93d48b1dc466321feb1a7e4170d83819fcd4773eb86f288a3445dba5b73878ab"
   }
 }
