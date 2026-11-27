@@ -1,0 +1,24 @@
+{
+  "version": "1.1.0",
+  "released": "2026-11-26",
+  "notes": [
+    "New Smart Cut tab: remove pauses and filler words (umm, uh) from your timeline in one click",
+    "New: sync camera clips to your audio recorder (Zoom, Tascam, DJI Mic, lavalier) by their sound",
+    "New: Retake finder groups takes of the same shot and suggests the best one",
+    "Fixed: indexing could stop right after pressing Start",
+    "Live indexing progress: percent, which clip, and a clear message if something goes wrong",
+    "Faster first start after installing; no console windows flashing on Windows",
+    "Pick your own LUTs with your computer's own file browser",
+    "Show all clips now loads every clip as you scroll",
+    "The Editor gnome joins the Time saved family"
+  ],
+  "page": "https://payhip.com/b/EpcLO",
+  "mac": {
+    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.1.0/ClipScout-1.1.0-Mac.pkg",
+    "sha256": "969a912ef461bcbc19aba4611add7b7a4b8651a5c1eb199a90013c48453192f8"
+  },
+  "windows": {
+    "url": "https://github.com/Clip-Scout/clip-scout-davinci-resolve/releases/download/v1.1.0/ClipScout-1.1.0-Windows.exe",
+    "sha256": "7c38f677abe1c0ab792fec5cad0346428c89b008c6dca29518bfc23fdb5033aa"
+  }
+}
